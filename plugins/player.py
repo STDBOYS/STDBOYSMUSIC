@@ -1,4 +1,4 @@
-# 𝐀𝐝𝐢𝐭𝐲𝐚 𝐇𝐚𝐥𝐝𝐞𝐫 // @𝑨𝒅𝒊𝒕𝒚𝒂𝑯𝒂𝒍𝒅𝒆𝒓
+# STD BOYS // @STD_DEEPANSHU
 import os
 import aiofiles
 import aiohttp
